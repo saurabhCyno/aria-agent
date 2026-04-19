@@ -1,0 +1,6 @@
+{
+  "name": "Planify - Aria Voice AI Agent",
+  "description": "A standalone Voice AI Design Consultant for Planify, featuring real-time voice-to-chat interaction and automated lead capture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["voice_interaction", "lead_capture", "real_time_transcription"]
+}
